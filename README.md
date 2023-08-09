@@ -6,7 +6,7 @@
 
 - I'm currently Studying Computer Science **Bsc.CSIT**
 
-- 🌱 I’m currently learning **javascript,React js**
+- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
