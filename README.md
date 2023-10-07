@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm SanDesh SharMa</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate flutter developer </h3>
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshchapagai&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshchapagai" /> </p>
 
