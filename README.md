@@ -33,6 +33,23 @@
         <td align="center"><a href="https://github.com/sandeshchapagai#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshchapagai&theme=default"/></a><a href="https://github.com/sandeshchapagai#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshchapagai&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/sandeshchapagai#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sandeshchapagai#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/sandeshchapagai#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
+
