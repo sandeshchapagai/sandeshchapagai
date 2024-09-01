@@ -3,9 +3,9 @@
 <h3 align="center">A passionate flutter developer </h3>
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshchapagai&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshchapagai" /> </p>
-- I'm currently Studying Computer Science **Bsc.CSIT**
+- I'm currently Studying Computer Science
 
-- 🌱 I’m currently **A Flutter Developer**
+- I’m currently a **Flutter Developer**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sandesh.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandesh.56" height="30" width="40" /></a>
