@@ -98,27 +98,21 @@ class Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeshchapagai&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshchapagai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeshchapagai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshchapagai&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sandeshchapagai&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=sandeshchapagai&theme=radical&hide_border=true" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=sandeshchapagai&theme=radical&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeshchapagai&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="trophy graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/snake.svg" alt="Snake animation" />
 
 ###
 
