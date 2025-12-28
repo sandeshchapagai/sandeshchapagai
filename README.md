@@ -65,25 +65,26 @@
 class Developer {
   final String name = "SanDesh Chapagai";
   final String role = "Flutter Developer & CS Student";
+  final int experienceYears = 2; // 2.5+ years
   
   final List<String> currentlyLearning = [
-    "FastAPI & Backend Architecture",
-    "System Design Patterns",
-    "Cloud Services & DevOps"
+    "FastAPI & Backend Development",
+    "RESTful API Design",
+    "Database Architecture with MySQL"
   ];
   
-  final Map<String, List<String>> skills = {
-    "mobile": ["Flutter", "Dart", "Android"],
-    "backend": ["FastAPI", "Python", "MySQL"],
+  final Map<String, List<String>> expertise = {
+    "mobile": ["Flutter", "Dart", "Android", "iOS"],
+    "backend": ["FastAPI", "Python", "MySQL", "REST APIs"],
     "frontend": ["React", "TailwindCSS", "JavaScript"],
-    "tools": ["Git", "VS Code", "Android Studio"]
+    "tools": ["Git", "VS Code", "Android Studio", "Postman"]
   };
   
   bool isAvailableFor(String opportunity) {
     return ["Internships", "Collaborations", "Open Source"].contains(opportunity);
   }
   
-  String getCurrentStatus() => "🚀 Building scalable mobile applications";
+  String getCurrentFocus() => "🚀 Mastering full-stack development with Flutter + FastAPI";
 }
 ```
 
@@ -97,24 +98,27 @@ class Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sandeshchapagai&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeshchapagai&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshchapagai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeshchapagai&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=sandeshchapagai&theme=radical&column=4&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="180" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=sandeshchapagai&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=sandeshchapagai&theme=radical&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophy graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -151,12 +155,6 @@ class Developer {
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
