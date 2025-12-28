@@ -1,138 +1,168 @@
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SanDesh+Chapagai;Flutter+Developer;Computer+Science+Student;Building+Scalable+Apps;Backend+Enthusiast;&center=true&width=600&height=40&font=JetBrains+Mono&color=36BCF7&background=00000000">
-  </a>
-</p>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<h1 align="center">Hello, I'm SanDesh Chapagai</h1>
-<h3 align="center">🎯 Passionate Flutter Developer & Computer Science Student</h3>
+<h3 align="center">I'm SanDesh Chapagai - Flutter Developer & CS Student</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeshchapagai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Mobile+Apps;Backend+%2B+Frontend+Enthusiast;Computer+Science+Student;Open+Source+Contributor&font=Fira+Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&pause=1000&size=20)](https://github.com/sandeshchapagai)
+  
 </div>
 
----
-
-## 🚀 About Me
-- 🎓 **Currently Studying Computer Science** at [Your University]
-- 💻 **Flutter Developer** building scalable mobile applications
-- 🔧 Exploring **Backend Development** with FastAPI & Python
-- 🎯 Open to **collaborations, internships, and remote opportunities**
-- 💬 Ask me about Flutter, UI/UX, Backend APIs, or Computer Science concepts
-
-> **"Code today, innovate tomorrow. Every line of code is a step toward the future."** [web:28]
-
----
-
-## 🛠️ Tech Stack
-
-### **📱 Frontend & Mobile**
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### **🛠 Backend & APIs**
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### **🌐 Web Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### **🔧 Tools & Dev Environment**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/sandeshchapagai#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=sandeshchapagai&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-      </a>
-      <a href="https://github.com/sandeshchapagai#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=sandeshchapagai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td rowspan="2" align="center">
-      <a href="https://github.com/sandeshchapagai#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshchapagai&layout=compact&theme=default&langs_count=8&hide_border=true" alt="Top Languages" />
-      </a>
-      <a href="https://github.com/sandeshchapagai#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshchapagai&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/sandeshchapagai#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshchapagai&theme=default&hide_border=true" alt="Streak Stats" />
-      </a>
-      <a href="https://github.com/sandeshchapagai#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshchapagai&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/sandeshchapagai#gh-light-mode-only">
-        <img src="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" />
-      </a>
-      <a href="https://github.com/sandeshchapagai#gh-light-mode-only">
-        <img src="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="Contribution Snake" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/sandesh.56" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sandesh56" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://fb.com/sandesh.567890" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sandesh.56" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+###
 
 <div align="center">
-  <h3>📧 Let's Connect!</h3>
-  <p>
-    <strong>Email:</strong> sandeshchapagai@example.com<br>
-    <strong>Portfolio:</strong> <a href="https://sandeshchapagai.com">sandeshchapagai.com</a>
-  </p>
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
 </div>
 
----
+###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Keep+building!;🚀" alt="Thanks Banner" />
+  <a href="https://www.linkedin.com/in/sandeshchapagai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/sandesh.56" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/sandesh.56" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://fb.com/sandesh.567890" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sandeshchapagai.sandeshchapagai&left_color=crimson&right_color=black"  />
+</div>
+
+###
+
+## 💫 About Me
+
+```dart
+class Developer {
+  final String name = "SanDesh Chapagai";
+  final String role = "Flutter Developer & CS Student";
+  
+  final List<String> currentlyLearning = [
+    "FastAPI & Backend Architecture",
+    "System Design Patterns",
+    "Cloud Services & DevOps"
+  ];
+  
+  final Map<String, List<String>> skills = {
+    "mobile": ["Flutter", "Dart", "Android"],
+    "backend": ["FastAPI", "Python", "MySQL"],
+    "frontend": ["React", "TailwindCSS", "JavaScript"],
+    "tools": ["Git", "VS Code", "Android Studio"]
+  };
+  
+  bool isAvailableFor(String opportunity) {
+    return ["Internships", "Collaborations", "Open Source"].contains(opportunity);
+  }
+  
+  String getCurrentStatus() => "🚀 Building scalable mobile applications";
+}
+```
+
+🎓 **Computer Science Student** passionate about creating impactful solutions  
+💼 **Open to:** Internships, Remote Opportunities & Collaborations  
+🌱 **Currently Exploring:** Backend Development, Cloud Architecture & AI Integration  
+💡 **Philosophy:** Clean code, scalable architecture, continuous learning  
+
+###
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sandeshchapagai&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshchapagai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeshchapagai&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sandeshchapagai&theme=radical&column=4&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="180" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sandeshchapagai/sandeshchapagai/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+###
+
+<details>
+<summary>📈 Detailed Stats</summary>
+<br/>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeshchapagai&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandeshchapagai&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeshchapagai&theme=radical)
+
+</div>
+
+</details>
+
+###
+
+## 📬 Get In Touch
+
+<div align="center">
+  
+**💌 Email:** sandeshchapagai@example.com  
+**🌐 Portfolio:** [sandeshchapagai.com](https://sandeshchapagai.com)  
+**📍 Location:** Kathmandu, Nepal
+
+</div>
+
+###
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing!;Happy+Coding!+🚀&font=Fira+Code&center=true&width=380&height=50&color=58A6FF&vCenter=true&pause=1000&size=22)](https://github.com/sandeshchapagai)
+  
 </div>
