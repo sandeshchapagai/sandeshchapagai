@@ -93,30 +93,7 @@ class Developer {
 🌱 **Currently Exploring:** Backend Development, Cloud Architecture & AI Integration  
 💡 **Philosophy:** Clean code, scalable architecture, continuous learning  
 
-###
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeshchapagai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshchapagai&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sandeshchapagai&theme=radical&hide_border=true" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandeshchapagai&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="trophy graph"  />
-</div>
-
-###
-
-<details>
 <summary>📈 Detailed Stats</summary>
 <br/>
 
