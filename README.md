@@ -146,17 +146,6 @@ class SanDesh extends Developer {
 
 ---
 
-<!-- QUOTE -->
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
----
-
 <!-- CONNECT -->
 ### 🌐 &nbsp; Open a Connection
 
