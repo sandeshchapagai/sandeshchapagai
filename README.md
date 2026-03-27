@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/%F0%9F%90%8D_FastAPI-Backend-00FF9D?style=flat-square&labelColor=0D0D0D)
 ![](https://img.shields.io/badge/%F0%9F%8E%93_CS-Student-FF6BFF?style=flat-square&labelColor=0D0D0D)
 ![](https://img.shields.io/badge/%F0%9F%93%8D_Kathmandu-Nepal-FFD700?style=flat-square&labelColor=0D0D0D)
-![](https://img.shields.io/badge/%F0%9F%92%BC_Open_To-Internships-FF6B6B?style=flat-square&labelColor=0D0D0D)
+
 
 <br/>
 
@@ -93,14 +93,6 @@ class SanDesh extends Developer {
 ---
 
 <!-- TROPHIES -->
-### 🏆 &nbsp; Achievement Vault
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandeshchapagai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <br/>
 
 ---
