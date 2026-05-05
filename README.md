@@ -34,7 +34,7 @@ class SanDesh extends Developer {
   final String name    = "SanDesh Chapagai";
   final String title   = "Flutter Dev & CS Student";
   final String base    = "Kathmandu, Nepal 🇳🇵";
-  final int    xp      = 2; // 2.5+ years
+  final int    xp      = 3; // 3+ years
 
   final Map<String, List<String>> stack = {
     "mobile"   : ["Flutter", "Dart", "Android", "iOS"],
