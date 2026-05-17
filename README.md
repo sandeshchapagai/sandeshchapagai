@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&height=55&lines=%F0%9F%9A%80+Architecting+Cross-Platform+Mobile+Experiences;%E2%9A%A1+Flutter+%2B+FastAPI+Full-Stack+Engineer;%F0%9F%94%A5+Turning+Ideas+into+Scalable+Products;%F0%9F%8C%90+Open+Source+%7C+Open+to+Collaborate)](https://github.com/sandeshchapagai)
 
 <br/>
-
 ![](https://img.shields.io/badge/%E2%9A%A1_Flutter-Expert-00F5FF?style=flat-square&labelColor=0D0D0D)
 ![](https://img.shields.io/badge/%F0%9F%90%8D_FastAPI-Backend-00FF9D?style=flat-square&labelColor=0D0D0D)
 ![](https://img.shields.io/badge/%F0%9F%8E%93_CS-Student-FF6BFF?style=flat-square&labelColor=0D0D0D)
