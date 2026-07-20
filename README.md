@@ -155,7 +155,7 @@ class SandeshChapagai extends Engineer {
 
 <!-- ═══════════ FOOTER ═══════════ -->
 
-[![Footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:1A1147,50:0A0E27,100:000000&height=110&section=footer&text=%3C%2F%3E&fontSize=40&fontColor=00E5FF&fontAlignY=68)](https://github.com/sandeshchapagai)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0E27,100:1A1147&height=120&section=footer&text=keep%20building&fontSize=22&fontColor=00E5FF&fontAlignY=68&animation=fadeIn)](https://github.com/sandeshchapagai)
 
 <div align="center">
 <sub>Engineered from Kathmandu, Nepal · <a href="https://sandeshchapagai.com.np/">sandeshchapagai.com.np</a></sub>
